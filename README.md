@@ -96,6 +96,16 @@ https://zhuanlan.zhihu.com/p/38302708
 
 《Database System Concepts》
 
+### sql
+
+**# 书**
+
+SQL必知必会
+
+**# 题目**
+
+[leetcode](https://leetcode.com/problemset/database/)
+
 ### sql调优
 
 **# 课程**
