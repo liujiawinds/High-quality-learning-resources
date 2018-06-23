@@ -16,6 +16,12 @@
 - 中国大学mooc上北大课不太好
 - 中国大学mooc上台湾清华的数据结构课太浅
 
+**# 书**
+
+- Algorithms, 4th Edition
+
+- 算法导论
+
 **# 可视化**
 
 https://mp.weixin.qq.com/s/4kTtn_gLYQrX7JFlEJdsZg
