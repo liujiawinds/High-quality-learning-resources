@@ -6,6 +6,8 @@
 1. 视频课程优先。课程类型包括但不限于Mooc、大学课录像、淘宝买的培训班录像、Youtube视频
 2. 尽量提供高质量资源的链接。认为不好的课程也会注明，帮大家躲坑，少浪费时间总是好的
 
+---
+
 ### Algorithms
 
 **# 课程**
@@ -30,12 +32,16 @@ https://github.com/billryan/algorithm-exercise
 
 大数据算法
 
+---
+
 ### 大数据算法
 
 **# 课程**
 
 中国大学mooc上哈工大的课太跳，听不懂不好
 
+
+---
 
 ### Java
 
@@ -64,6 +70,7 @@ http://chenjc-it.iteye.com/category/223150
 http://blog.csdn.net/luanlouis/article/details/40422941
 
 
+---
 
 ### 数据库系统原理
 
@@ -92,7 +99,7 @@ http://dbaplus.cn/news-155-1531-1.html
 - 《SQL优化核心思想》
   - 看不太懂，需要前置知识
 
-
+---
 
 ### 前端
 
@@ -107,7 +114,7 @@ https://www.zhihu.com/question/32314049
 http://ife.baidu.com/
 
 
-
+---
 
 ### 分布式系统
 
@@ -132,6 +139,7 @@ https://www.zhihu.com/question/23645117
 
 https://www.coursera.org/learn/distributed-database
 
+---
 
 ### 各种工具的使用
 
@@ -151,7 +159,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 
-
+---
 
 ### 架构
 
@@ -163,6 +171,7 @@ https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 
 https://www.w3cschool.cn/architectroad/architectroad-database-architecture-design.html
 
+---
 
 ### 机器学习
 
