@@ -65,7 +65,7 @@ https://github.com/billryan/algorithm-exercise
   - 地址找不到了
 - [淘宝JVM课](https://item.taobao.com/item.htm?id=567143750234)
 
-**# JVM-常量池**
+**## 常量池**
 
 https://www.cnblogs.com/syp172654682/p/8082625.html
 
@@ -74,6 +74,11 @@ https://www.cnblogs.com/syp172654682/p/8082625.html
 http://chenjc-it.iteye.com/category/223150
 
 http://blog.csdn.net/luanlouis/article/details/40422941
+
+**# 面试题**
+
+https://zhuanlan.zhihu.com/p/38302708
+
 
 
 ---
