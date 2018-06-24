@@ -145,10 +145,13 @@ http://ife.baidu.com/
 
 https://www.zhihu.com/question/23645117
 
+**# 综述**
+
+上面知乎回答里有推荐看的综述。还没看过
 
 **# 课程**
 
-- [mit课，不全](https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
+- [mit课的youtube录像，不全](https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
   - https://pdos.csail.mit.edu/6.824/
   - 没看过
 - [quora推荐Cloud computing specialization on coursera](https://www.coursera.org/specializations/cloud-computing)
