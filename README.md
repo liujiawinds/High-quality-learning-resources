@@ -173,9 +173,7 @@ https://www.coursera.org/learn/distributed-database
 
 http://www.ruanyifeng.com/blog/2018/02/docker-wordpress-tutorial.html
 
-**# NginX**
 
-http://www.ruanyifeng.com/blog/2018/02/nginx-docker.html
 
 **# Markdown**
 
