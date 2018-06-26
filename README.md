@@ -36,6 +36,8 @@ https://github.com/billryan/algorithm-exercise
 
 数据库中的索引
 
+Consistent Hashing
+
 大数据算法
 
 ---
