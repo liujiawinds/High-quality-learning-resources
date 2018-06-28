@@ -85,6 +85,15 @@ https://zhuanlan.zhihu.com/p/38302708
 
 ---
 
+### 操作系统
+
+**# Linux使用**
+
+- [shiyanlou](https://www.shiyanlou.com/courses/1)
+
+
+---
+
 ### 数据库系统原理
 
 **# 课程**
