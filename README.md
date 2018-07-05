@@ -176,6 +176,12 @@ https://www.zhihu.com/question/23645117
 
 https://www.coursera.org/learn/distributed-database
 
+#### 分布式调度
+
+**# 综述**
+
+https://edu.aliyun.com/lesson_31_618?spm=5176.10731542.0.0.yUC0Fm#_618
+
 ---
 
 ### 各种工具的使用
