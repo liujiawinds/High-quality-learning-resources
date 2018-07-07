@@ -139,6 +139,14 @@ http://dbaplus.cn/news-155-1531-1.html
 
 待补充
 
+**# 模块化**
+
+http://www.ruanyifeng.com/blog/2012/10/javascript_module.html
+
+**## 练习**
+
+自己模拟一个requireJs
+
 **# 路线**
 
 https://segmentfault.com/a/1190000004652898
