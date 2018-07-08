@@ -48,6 +48,13 @@ Consistent Hashing
 
 中国大学mooc上哈工大的课太跳，听不懂不好
 
+**# 练习**
+
+http://www.cnblogs.com/xzwblog/p/7127362.html
+
+https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/ch6.html
+
+《程序员代码面试指南》
 
 ---
 
