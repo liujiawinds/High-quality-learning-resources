@@ -67,6 +67,16 @@ Consistent Hashing
   - 地址找不到了
 - [淘宝JVM课](https://item.taobao.com/item.htm?id=567143750234)
 
+**## 内存管理**
+
+- 视频、《深入理解java虚拟机》讲的不太细
+- [HotSpot Memory Management Whitepaper](http://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
+  - [stackoverflow：为什么CMS用那么多phases?](https://stackoverflow.com/questions/17371984/why-jvm-cmsconcurrent-mark-and-sweep-needs-two-pauses-for-gc)白皮书告诉你
+  
+**## GC Tuning**
+
+https://plumbr.io/handbook/gc-tuning
+
 **## 常量池**
 
 https://www.cnblogs.com/syp172654682/p/8082625.html
