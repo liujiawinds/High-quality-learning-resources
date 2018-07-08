@@ -74,6 +74,7 @@ Consistent Hashing
 - 推荐[HotSpot Memory Management Whitepaper](http://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
   - [stackoverflow：为什么CMS用那么多phases?](https://stackoverflow.com/questions/17371984/why-jvm-cmsconcurrent-mark-and-sweep-needs-two-pauses-for-gc)白皮书告诉你
   
+  
 **## GC Tuning**
 
 https://plumbr.io/handbook/gc-tuning
@@ -81,6 +82,11 @@ https://plumbr.io/handbook/gc-tuning
 **## 常量池**
 
 https://www.cnblogs.com/syp172654682/p/8082625.html
+
+**## 练习与Demo**
+
+[强软弱虚引用](https://blog.csdn.net/m0_37241851/article/details/71105152)
+- 这个例子里面软引用的类不对，自己改改跑一下就行
 
 **# mybatis原理**
 
