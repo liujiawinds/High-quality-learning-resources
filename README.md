@@ -70,7 +70,8 @@ Consistent Hashing
 **## 内存管理**
 
 - 视频、《深入理解java虚拟机》讲的不太细
-- [HotSpot Memory Management Whitepaper](http://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
+- 网上的帖子就别看了，越看越糊涂
+- 推荐[HotSpot Memory Management Whitepaper](http://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
   - [stackoverflow：为什么CMS用那么多phases?](https://stackoverflow.com/questions/17371984/why-jvm-cmsconcurrent-mark-and-sweep-needs-two-pauses-for-gc)白皮书告诉你
   
 **## GC Tuning**
