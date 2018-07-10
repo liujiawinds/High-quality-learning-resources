@@ -196,10 +196,10 @@ https://www.zhihu.com/question/23645117
 
 - [mit课的youtube录像，不全](https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
   - https://pdos.csail.mit.edu/6.824/
-  - 没看过
+  - 是真的听不清，放弃了
 - [quora推荐Cloud computing specialization on coursera](https://www.coursera.org/specializations/cloud-computing)
   - https://www.quora.com/Which-is-a-good-online-course-for-studying-distributed-systems-Video-lectures-preferred
-  - 没看过
+  - 不能随时自由刷，当前只有week 1
 
 
 #### 分布式数据库
