@@ -52,7 +52,8 @@ Consistent Hashing
   - 扫了一眼知识点，偏算法，有类似DFS，MapReduce,Bloom filter,Sampling a stream这样听起来就很实用的东西
 
 - [大规模数据处理：系统与算法](https://www.coursera.org/learn/data-manipulation#ratings)
-  - 看了下课表挺像介绍各种数据库的，关系库/NoSQL/图分析之类
+  - 看了下课表挺像介绍各种数据库的，关系库/NoSQL/图分析之类。
+  - 出现了挺多HBase,PIG,Hadoop这样的热词，与上面课的热词比较一下大概能猜出来区别
   
 **# 练习**
 
