@@ -42,12 +42,18 @@ Consistent Hashing
 
 ---
 
-### 大数据算法
+### 大数据算法/数据挖掘
 
 **# 课程**
 
-中国大学mooc上哈工大的课太跳，听不懂不好
+- 中国大学mooc上哈工大的课太跳，听不懂不好
 
+- [Mining of Massive Datasets (MMDS)](https://space.bilibili.com/298057/#/channel/detail?cid=22368)
+  - 扫了一眼知识点，偏算法，有类似DFS，MapReduce,Bloom filter,Sampling a stream这样听起来就很实用的东西
+
+- [大规模数据处理：系统与算法](https://www.coursera.org/learn/data-manipulation#ratings)
+  - 看了下课表挺像介绍各种数据库的，关系库/NoSQL/图分析之类
+  
 **# 练习**
 
 http://www.cnblogs.com/xzwblog/p/7127362.html
