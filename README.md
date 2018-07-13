@@ -32,6 +32,8 @@ https://www.shiyanlou.com/courses/492
 
 https://github.com/billryan/algorithm-exercise
 
+《背包九讲》
+
 **# 拓展**
 
 数据库中的索引
