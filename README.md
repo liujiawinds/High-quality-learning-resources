@@ -32,7 +32,7 @@ https://www.shiyanlou.com/courses/492
 
 https://github.com/billryan/algorithm-exercise
 
-算法课视频
+算法面试课视频
 
 《背包九讲》
 
