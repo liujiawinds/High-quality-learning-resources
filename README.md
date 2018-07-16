@@ -212,6 +212,9 @@ https://www.zhihu.com/question/23645117
   - https://www.quora.com/Which-is-a-good-online-course-for-studying-distributed-systems-Video-lectures-preferred
   - 不能随时自由刷，当前只有week 1
 
+**# RPC**
+
+[深入理解 RPC : 基于 Python 自建分布式高并发 RPC 服务](https://juejin.im/book/5af56a3c518825426642e004)
 
 #### 分布式数据库
 
