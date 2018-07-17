@@ -254,6 +254,10 @@ https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 
 - 淘宝买的架构师课比较偏向于讲各种轮子的API。不喜欢
 
+**# 书**
+
+《大型网站技术架构_核心原理与案例分析》李智慧
+
 **# 案例**
 
 https://www.w3cschool.cn/architectroad/architectroad-database-architecture-design.html
