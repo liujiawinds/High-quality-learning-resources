@@ -69,6 +69,18 @@ https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/ch6.html
 
 ---
 
+### Computational Geometry
+
+虽然“Geometry”听起来很学术，但range search、windowing query用到的搜索结构和数据库有关，值得一学
+
+**# Courses**
+
+[edx上清华的课](https://courses.edx.org/courses/course-v1:TsinghuaX+70240183x+1T2017/course/)
+
+
+
+---
+
 ### Java
 
 **# 编码规范**
