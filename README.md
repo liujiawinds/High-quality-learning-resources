@@ -113,6 +113,10 @@ https://plumbr.io/handbook/gc-tuning
 
 https://www.cnblogs.com/syp172654682/p/8082625.html
 
+**## JAVA 8**
+
+《Java 8函数式编程》
+
 **## 练习与Demo**
 
 [强软弱虚引用](https://blog.csdn.net/m0_37241851/article/details/71105152)
@@ -269,6 +273,8 @@ https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 **# 书**
 
 《大型网站技术架构_核心原理与案例分析》李智慧
+
+《大型分布式网站架构设计与实践》
 
 **# 案例**
 
