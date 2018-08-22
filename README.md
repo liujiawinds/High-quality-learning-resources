@@ -8,6 +8,11 @@
 
 ---
 
+### 资源来源
+
+[openculture](http://www.openculture.com/computer_science_free_courses)
+
+
 ### Algorithms
 
 **# 课程**
