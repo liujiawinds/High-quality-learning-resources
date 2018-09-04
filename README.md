@@ -162,6 +162,9 @@ https://zhuanlan.zhihu.com/p/38302708
   - 右上角有youtube课程链接
 - [CMU 15-721 Advanced database systems](https://15721.courses.cs.cmu.edu/spring2017/)
 
+- [Coursera上的Distributed Database](https://www.coursera.org/learn/distributed-database)
+  - 时间短，有过之前的体验，很怀疑这种短课会否太浅
+
 **# 书**
 
 Database System Concepts
