@@ -245,6 +245,7 @@ https://www.zhihu.com/question/23645117
 - [quora推荐Cloud computing specialization on coursera](https://www.coursera.org/specializations/cloud-computing)
   - https://www.quora.com/Which-is-a-good-online-course-for-studying-distributed-systems-Video-lectures-preferred
   - 不能随时自由刷，当前只有week 1
+  - [评论](http://coursegraph.com/coursera_cloudcomputing)说这是大学distributed system课直接搬过来了。缺点是讲P2P太多/关键部分简单，可以结合着学MIT的
 - [edx上的reliable distributed algorithm](https://www.youtube.com/user/seifharidi/videos)
   - [课程主页](https://www.kth.se/student/kurser/kurs/ID2203?l=en)上写的是Distributed Systems, Advanced Course
   - 大学有自己的[视频页](https://kth.instructure.com/courses/4122),与其跟edx不如看这个了？
