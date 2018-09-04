@@ -245,8 +245,13 @@ https://www.zhihu.com/question/23645117
 - [quora推荐Cloud computing specialization on coursera](https://www.coursera.org/specializations/cloud-computing)
   - https://www.quora.com/Which-is-a-good-online-course-for-studying-distributed-systems-Video-lectures-preferred
   - 不能随时自由刷，当前只有week 1
-- [edx上的reliable distributed system](https://www.youtube.com/user/seifharidi/videos)
+- [edx上的reliable distributed algorithm](https://www.youtube.com/user/seifharidi/videos)
+  - [课程主页](https://www.kth.se/student/kurser/kurs/ID2203?l=en)上写的是Distributed Systems, Advanced Course
+  - 大学有自己的[视频页](https://kth.instructure.com/courses/4122),与其跟edx不如看这个了？
+  - 前置课程ID2201没有视频
 
+- [cs224b_stanford](http://www.scs.stanford.edu/17au-cs244b/)
+  - 有08年的课，但发现近几年课程有更新，课表上有zookeeper之类的新东西
 
 **# RPC**
 
