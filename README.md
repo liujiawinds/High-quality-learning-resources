@@ -235,6 +235,8 @@ https://www.zhihu.com/question/23645117
 - [quora推荐Cloud computing specialization on coursera](https://www.coursera.org/specializations/cloud-computing)
   - https://www.quora.com/Which-is-a-good-online-course-for-studying-distributed-systems-Video-lectures-preferred
   - 不能随时自由刷，当前只有week 1
+- [edx上的reliable distributed system](https://www.youtube.com/user/seifharidi/videos)
+
 
 **# RPC**
 
