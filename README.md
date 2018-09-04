@@ -252,6 +252,7 @@ https://www.zhihu.com/question/23645117
 
 - [cs224b_stanford](http://www.scs.stanford.edu/17au-cs244b/)
   - 有08年的课，但发现近几年课程有更新，课表上有zookeeper之类的新东西
+  - prerequisite是CS 144. Introduction to Computer Networking.
 
 **# RPC**
 
