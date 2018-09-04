@@ -51,6 +51,13 @@ Consistent Hashing
 
 ---
 
+### Design and Analysis of Algorithms
+
+- [mit的](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+  - 看描述是侧重设计和数学证明复杂度咯
+
+---
+
 ### 大数据算法/数据挖掘
 
 **# 课程**
