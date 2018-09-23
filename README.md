@@ -12,6 +12,12 @@
 
 [openculture](http://www.openculture.com/computer_science_free_courses)
 
+### performance
+
+**# 课程**
+
+- [mit](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/video-lectures/)
+  - [youtube上有](https://www.youtube.com/playlist?list=PLD2AE32F507F10481&feature=plcp)
 
 ### Algorithms
 
