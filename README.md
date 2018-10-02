@@ -80,7 +80,7 @@ Consistent Hashing
 
 - [kth](https://canvas.instructure.com/courses/902299)
   - [video](https://www.youtube.com/playlist?list=PLx3mQFFeHPjndmQ0iP9j6C58b90hqGa0X)
-  - 找半天没找到在哪讲complexity分析
+  - 找半天没找到在哪讲complexity分析。为什么要分析message complexity,为什么分析时间复杂度时候假设每个节点计算时间是O(1)?搞不懂不知道如何前进
   
 **# Books**
 
