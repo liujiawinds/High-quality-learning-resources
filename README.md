@@ -65,7 +65,9 @@ Consistent Hashing
 
 - [mit的](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
   - 看描述是侧重设计和数学证明复杂度咯
-
+  - 有讲randomization(skip list之类),有讲distributed algorithims，看起来值得学
+  - This course is the second part of a three-course sequence. The first course in the sequence is 6.006 Introduction to Algorithms. The sequence continues in 6.854J Advanced Algorithms.
+  
 ---
 
 ### 大数据算法/数据挖掘
