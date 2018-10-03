@@ -114,8 +114,10 @@ Consistent Hashing
 **# Books**
 
 - <分布式算法导论>
-- [<Distributed Algorithms>](https://download.csdn.net/download/kittyjie/512286)
-
+- [Distributed Algorithms](https://download.csdn.net/download/kittyjie/512286)
+- <DESIGN AND ANALYSIS of Distributed>
+  - 倒是有讲复杂度分析
+  
 ---
 
 ### 大数据算法/数据挖掘
