@@ -16,6 +16,17 @@
 
 [Coursera课程下载和存档计划](http://blog.coursegraph.com/coursera%E8%AF%BE%E7%A8%8B%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AD%98%E6%A1%A3%E8%AE%A1%E5%88%92%E5%9B%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%E5%85%AC%E5%BC%80%E8%AF%BE)
 
+---
+
+### Learning Tricks
+
+- 想学某个东西，直接全文搜索找有这个关键词的mooc
+  - 利用[coursegraph](http://coursegraph.com/)提供的搜索功能
+  - google hack.比如搜索site:coursera.org "bitmap" algorithm
+
+
+---
+
 ### performance
 
 **# 课程**
