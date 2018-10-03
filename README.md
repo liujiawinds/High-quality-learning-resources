@@ -29,6 +29,7 @@
 
 - [coursera上princeton的课很棒](https://www.coursera.org/learn/algorithms-part1)
 - 中国大学mooc上北大课不太好
+  - [coursera上也有高级数据结构与算法](https://www.coursera.org/specializations/biancheng-suanfa),估计一样，但是有外排、索引结构、parse query以及自己实现的作业，可以挑着学
 - 中国大学mooc上台湾清华的数据结构课太浅
 
 **# 书**
@@ -75,6 +76,8 @@ Consistent Hashing
 - [stanford](https://www.coursera.org/specializations/algorithms)  
   - 搞了4个课，严重怀疑是基础知识太多，把基础和数学分析混一起了？
   - 有讲布隆过滤器，倒是可以挑着学
+
+
 
 ---
 
