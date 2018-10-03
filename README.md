@@ -69,8 +69,23 @@ Consistent Hashing
     - 讲的有点浅，连分布式系统的复杂度都没细讲
   - This course is the second part of a three-course sequence. The first course in the sequence is 6.006 Introduction to Algorithms. The sequence continues in 6.854J Advanced Algorithms.
   
+- [princeton的Analysis of Algorithms](http://blog.coursegraph.com/coursera%E8%AF%BE%E7%A8%8B%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AD%98%E6%A1%A3%E8%AE%A1%E5%88%92%E5%9B%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%E5%85%AC%E5%BC%80%E8%AF%BE)
+  - [princeton的algorithms](https://www.coursera.org/learn/algorithms-part2)上面有讲这门课和上面Algorithms的关系。上面那个先学，偏coding,这个偏数学证明
+  
+- [stanford](https://www.coursera.org/specializations/algorithms)  
+  - 搞了4个课，严重怀疑是基础知识太多，把基础和数学分析混一起了？
+  - 有讲布隆过滤器，倒是可以挑着学
+
 ---
 
+### Analytic Combinatorics（组合分析）
+
+**# Courses**
+
+- [依然princeton](https://www.coursera.org/learn/analytic-combinatorics?ranMID=40328&ranEAID=9IqCvd3EEQc&ranSiteID=9IqCvd3EEQc-CH1dG4XDQ3ysUg_uOrJ72w&siteID=9IqCvd3EEQc-CH1dG4XDQ3ysUg_uOrJ72w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=9IqCvd3EEQc)
+  - "依然Sedgewick大神的算法课程，偏算法分析的数学层面" from [coursegraph](http://blog.coursegraph.com/coursera%E8%AF%BE%E7%A8%8B%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AD%98%E6%A1%A3%E8%AE%A1%E5%88%92%E5%9B%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%E5%85%AC%E5%BC%80%E8%AF%BE)
+
+---
 
 ### Distributed Algorithms
 
