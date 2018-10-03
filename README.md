@@ -20,7 +20,7 @@
 
 ### Learning Tricks
 
-- 想学某个东西，直接全文搜索找有这个关键词的mooc
+- 索引式学习。想学某个东西时，直接全文搜索找有这个关键词的mooc
   - 利用[coursegraph](http://coursegraph.com/)提供的搜索功能
   - google hack.比如搜索site:coursera.org "bitmap" algorithm
 
