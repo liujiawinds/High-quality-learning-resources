@@ -49,6 +49,8 @@
 
 - 算法导论
 
+- 《Advanced Data Structures》
+
 **# 可视化**
 
 https://mp.weixin.qq.com/s/4kTtn_gLYQrX7JFlEJdsZg
@@ -75,10 +77,10 @@ Consistent Hashing
 
 ### Design and Analysis of Algorithms
 
-- [mit的](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+- [mit的design-and-analysis-of-algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
   - 看描述是侧重设计和数学证明复杂度咯
   - 有讲randomization(skip list之类),有讲distributed algorithims，看起来值得学
-    - 讲的有点浅，连分布式系统的复杂度都没细讲
+    - 讲的有点浅，连分布式算法的复杂度模型都没细讲
   - This course is the second part of a three-course sequence. The first course in the sequence is 6.006 Introduction to Algorithms. The sequence continues in 6.854J Advanced Algorithms.
   
 - [princeton的Analysis of Algorithms](http://blog.coursegraph.com/coursera%E8%AF%BE%E7%A8%8B%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AD%98%E6%A1%A3%E8%AE%A1%E5%88%92%E5%9B%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%E5%85%AC%E5%BC%80%E8%AF%BE)
@@ -100,6 +102,9 @@ Consistent Hashing
   - "依然Sedgewick大神的算法课程，偏算法分析的数学层面" from [coursegraph](http://blog.coursegraph.com/coursera%E8%AF%BE%E7%A8%8B%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AD%98%E6%A1%A3%E8%AE%A1%E5%88%92%E5%9B%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%E5%85%AC%E5%BC%80%E8%AF%BE)
 
 ---
+
+
+
 
 ### Distributed Algorithms
 
