@@ -92,7 +92,16 @@ Consistent Hashing
   - 搞了4个课，严重怀疑是基础知识太多，把基础和数学分析混一起了？
   - 有讲布隆过滤器，倒是可以挑着学
 
+---
 
+# Advanced Algorithms
+
+**# Courses** 
+- [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity/home/welcome)
+  - 有streaming。看课表比MIT的讲的少，没有Approximation algorithms 之类的
+  
+- [mit的] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/lecture-notes/)
+  - 没videos，缺lecture notes
 
 ---
 
