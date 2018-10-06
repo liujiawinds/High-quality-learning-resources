@@ -105,6 +105,9 @@ Consistent Hashing
 - [mit的] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/lecture-notes/)
   - 没videos，缺lecture notes
 
+- [Harvard](http://people.seas.harvard.edu/~cs224/spring17/index.html)
+  - youtube有video,没字幕
+
 ---
 
 ### Analytic Combinatorics（组合分析）
