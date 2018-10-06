@@ -27,7 +27,7 @@
 
 ---
 
-### performance
+### Performance
 
 **# 课程**
 
@@ -56,6 +56,8 @@
 **# 可视化**
 
 https://mp.weixin.qq.com/s/4kTtn_gLYQrX7JFlEJdsZg
+
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 **# 题目**
 
@@ -94,7 +96,7 @@ Consistent Hashing
 
 ---
 
-# Advanced Algorithms
+### Advanced Algorithms
 
 **# Courses** 
 - [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity/home/welcome)
