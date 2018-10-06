@@ -150,7 +150,7 @@ Consistent Hashing
   - 出现了挺多HBase,PIG,Hadoop这样的热词，与上面课的热词比较一下大概能猜出来区别
 
 - [Algorithms for Big Data: A Free Course from Harvard](http://www.openculture.com/2017/12/algorithms-for-big-data-a-free-course-from-harvard.html)
-  - 刚找到没细看，但是看desc很合适
+  - 刚找到没细看，但是看desc很合适.Sketching and Streaming,External memory and cache-obliviousness!
 
 **# 练习**
 
