@@ -156,6 +156,7 @@ Consistent Hashing
 
 - [Algorithms for Big Data: A Free Course from Harvard](http://www.openculture.com/2017/12/algorithms-for-big-data-a-free-course-from-harvard.html)
   - 刚找到没细看，但是看desc很合适.Sketching and Streaming,External memory and cache-obliviousness!
+  - 结合[csdn博客](https://blog.csdn.net/dc_726/article/details/51724097)上推荐的slides和论文
 
 **# 练习**
 
