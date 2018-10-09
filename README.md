@@ -12,15 +12,23 @@
 
 ### 资源来源
 
-[openculture](http://www.openculture.com/computer_science_free_courses)
+清单类
 
-[B站上传计划](https://www.zybuluo.com/illuz/note/832995)
+- [openculture上的Computer Science Courses](http://www.openculture.com/computer_science_free_courses)
 
-[Coursera课程下载和存档计划](http://blog.coursegraph.com/coursera%E8%AF%BE%E7%A8%8B%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AD%98%E6%A1%A3%E8%AE%A1%E5%88%92%E5%9B%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%E5%85%AC%E5%BC%80%E8%AF%BE)
+- [B站上传计划](https://www.zybuluo.com/illuz/note/832995)
 
-[课程图谱](http://coursegraph.com/)
+- [Coursera课程下载和存档计划](http://blog.coursegraph.com/coursera%E8%AF%BE%E7%A8%8B%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AD%98%E6%A1%A3%E8%AE%A1%E5%88%92%E5%9B%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%E5%85%AC%E5%BC%80%E8%AF%BE)
 
-[淘宝买课](http://www.taobao.com)
+搜索类
+
+- [课程图谱](http://coursegraph.com/)
+
+- [淘宝买课](http://www.taobao.com)
+
+- Youtube视频
+
+- [pluralsight](https://www.pluralsight.com)
 
 ---
 
