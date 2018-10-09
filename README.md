@@ -1,5 +1,7 @@
 # High-quality-learning-resources
 
+只分享高质量学习资源
+
 ### 介绍
 
 0. 这个仓库分享计算机科学/工程相关的优质学习资源
