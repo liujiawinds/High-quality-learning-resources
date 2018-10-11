@@ -48,6 +48,14 @@
 - [mit](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/video-lectures/)
   - [youtube上有](https://www.youtube.com/playlist?list=PLD2AE32F507F10481&feature=plcp)
 
+---
+
+# Computer Architecture
+
+- [Introduction to Computer Architecture](http://www.archive.ece.cmu.edu/~ece447/s13/doku.php?id=schedule)
+
+---
+
 ### Algorithms
 
 **# 课程**
