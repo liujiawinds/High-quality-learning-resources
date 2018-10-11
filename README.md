@@ -50,7 +50,7 @@
 
 ---
 
-# Computer Architecture
+### Computer Architecture
 
 - [Introduction to Computer Architecture](http://www.archive.ece.cmu.edu/~ece447/s13/doku.php?id=schedule)
 
