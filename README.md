@@ -56,6 +56,8 @@
 
 - [Introduction to Computer Architecture](http://www.archive.ece.cmu.edu/~ece447/s13/doku.php?id=schedule)
 
+- [(Advanced)Computer Architecture@Coursera,princeton](https://www.coursera.org/learn/comparch)
+
 ---
 
 ### Algorithms
